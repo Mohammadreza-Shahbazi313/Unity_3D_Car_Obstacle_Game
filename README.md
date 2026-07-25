@@ -25,7 +25,7 @@
 
 ## Prerequisites
 
- Unity Hub
+ Unity Hub V5.6.7
  A compatible Unity Editor version
 
 ### Installation
