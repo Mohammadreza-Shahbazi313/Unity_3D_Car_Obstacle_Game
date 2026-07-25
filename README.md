@@ -45,8 +45,11 @@ git clone https://github.com/abolfazlghasemi83/Unity_3D_Car_Obstacle_Game.git
 # Controls
 Key	Action
 W / Up Arrow	Move Forward
+
 S / Down Arrow	Move Backward
+
 A / Left Arrow	Turn Left
+
 D / Right Arrow	Turn Right
 
 
