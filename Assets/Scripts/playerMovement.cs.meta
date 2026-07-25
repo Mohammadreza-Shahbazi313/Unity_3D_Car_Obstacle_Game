@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e3a6d3669b09baf409c393b1ce3192c0
+timeCreated: 1782936487
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - frontLeftWheel: {instanceID: 0}
+  - frontRightWheel: {instanceID: 0}
+  - rearLeftWheel: {instanceID: 0}
+  - rearRightWheel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
