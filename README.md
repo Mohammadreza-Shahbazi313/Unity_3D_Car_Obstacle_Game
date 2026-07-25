@@ -43,15 +43,17 @@ git clone https://github.com/abolfazlghasemi83/Unity_3D_Car_Obstacle_Game.git
 4.Press the Play button to start the game.
 
 # Controls
-Key	Action
-W / Up Arrow	Move Forward
+W / Up Arrow	: Move Forward
 
-S / Down Arrow	Move Backward
+S / Down Arrow	: Move Backward
 
-A / Left Arrow	Turn Left
+A / Left Arrow	: Turn Left
 
-D / Right Arrow	Turn Right
+D / Right Arrow	: Turn Right
 
+R: Restart Game
+
+ESC: Pause Game
 
 # License
 This project is licensed under the MIT License.
