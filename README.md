@@ -30,7 +30,27 @@
 
 ### Installation
 
-# Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/abolfazlghasemi83/Unity_3D_Car_Obstacle_Game.git
+
+
+2.Open the project using Unity Hub.
+3.Open the main scene.
+4.Press the Play button to start the game.
+
+Controls
+Key	Action
+W / Up Arrow	Move Forward
+S / Down Arrow	Move Backward
+A / Left Arrow	Turn Left
+D / Right Arrow	Turn Right
+
+
+License
+This project is licensed under the MIT License.
+
+Authors
+Abolfazl Ghasemi
+Mohammad Reza Shahbazi
