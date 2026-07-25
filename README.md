@@ -11,21 +11,41 @@
 ## Features
 
  3D car movement and control
+ 
  Obstacle avoidance gameplay
+ 
  Interactive game environment
+ 
  Physics-based vehicle movement
+ 
  Third-person gameplay camera
+ 
  Simple and focused gameplay mechanics
+
+ ## Gameplay
+
+### Starting the Game
+
+![Gameplay Start](docs/media/gameplay-Start.png)
+
+### Collecting Coins
+
+![Gameplay After Collecting Coins](docs/media/gameplay-After%20Collecting%20Coins.png)
+
+### Gameplay Demo
+
+![Gameplay Demo](docs/media/gameplay-demo.gif)
 
 ## Built With
 
- Unity
- C#
+ Unity C#
+ 
  Unity Physics System
 
 ## Prerequisites
 
  Unity Hub V5.6.7
+ 
  A compatible Unity Editor version
 
 ### Installation
@@ -36,11 +56,11 @@
 git clone https://github.com/abolfazlghasemi83/Unity_3D_Car_Obstacle_Game.git
 ```
 
-2.Open the project using Unity Hub.
+2. Open the project using Unity Hub.
 
-3.Open the main scene.
+3. Open the main scene.
 
-4.Press the Play button to start the game.
+4. Press the Play button to start the game.
 
 # Controls
 W / Up Arrow	: Move Forward
