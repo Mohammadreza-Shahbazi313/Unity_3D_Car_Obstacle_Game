@@ -34,13 +34,13 @@
 
 ```bash
 git clone https://github.com/abolfazlghasemi83/Unity_3D_Car_Obstacle_Game.git
-
+```
 
 2.Open the project using Unity Hub.
 3.Open the main scene.
 4.Press the Play button to start the game.
 
-Controls
+# Controls
 Key	Action
 W / Up Arrow	Move Forward
 S / Down Arrow	Move Backward
@@ -48,9 +48,9 @@ A / Left Arrow	Turn Left
 D / Right Arrow	Turn Right
 
 
-License
+# License
 This project is licensed under the MIT License.
 
-Authors
+# Authors
 Abolfazl Ghasemi
 Mohammad Reza Shahbazi
